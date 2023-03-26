@@ -2,11 +2,12 @@
 
 A repository with secrets in it. Just for demonstration purposes.
 
-The secrets aren't valid (anymore). Not even this one: 
-pass=correcthorsestaplebattery
-or a secret in a URL like https://user@password:www.example.com
+The secrets aren't valid (anymore). Not even this one:
+`pass=correcthorsestaplebattery`
+or a secret in a URL like <https://user@password:www.example.com>
 or a key in this text:
 
+```text
 -----BEGIN RSA PRIVATE KEY-----
 Proc-Type: 4,ENCRYPTED
 DEK-Info: DES-EDE3-CBC,C29EBBDB9DF485CE
@@ -37,7 +38,8 @@ o8EbgYbhzUOdF/+Zzf/pcl5jN9Cyc9xstEPGFu7s/OymWF6wfoF0T67xPqd8jdjb
 9lIHT+nqrMQ6aA9yLaeYSYyIGAEJ26l5Ge6JxN4ODas3pX7J4KA0y/aiLJioC8u/
 eIJ5x46NmAePTcopnolXdPZA7m9FV6vwwOQhPsIgdN0sC4/iuphCuj0p3Gz0OR2w
 -----END RSA PRIVATE KEY-----
-  
-or an API key like key=AIzaSyC7oMIPvbLvvycrjuwaHsyfgIVYj6cNtDM
+```
+
+or an API key like `key=AIzaSyC7oMIPvbLvvycrjuwaHsyfgIVYj6cNtDM`
 
 
