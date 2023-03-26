@@ -1,0 +1,43 @@
+# secrets-abound
+
+A repository with secrets in it. Just for demonstration purposes.
+
+The secrets aren't valid (anymore). Not even this one: 
+pass=correcthorsestaplebattery
+or a secret in a URL like https://user@password:www.example.com
+or a key in this text:
+
+-----BEGIN RSA PRIVATE KEY-----
+Proc-Type: 4,ENCRYPTED
+DEK-Info: DES-EDE3-CBC,C29EBBDB9DF485CE
+
+iCQBtkMFY7n9/v8vWzdm+yVOr+mgyEQHDnC4NgQtjtrIglthB7cMFItZuVCP7TQD
+8zK+UcWoZMRqqo4jhj5EQpJb80rpAmxOB0qNOpTqSQmEiz0xk7Ef9f0hmS31CX7n
+o/lilLCx+W4GlBtHkTqdZisu0brilJ+kMAl3gqi8tdiQUORKSPKnWHOCnlQU74XH
+drGfQdIUtL8bdjBI71+kyydSTsKZhD3NQwT7N8msJnaJslPXZjjj5+CWXmpR3w+a
+0vKIxsM+r6QVIGl8wVsFFq/hQSv9xTmP/+8rEGjCyq6obg7AGLoKkp3vjKJmO6zv
+C9e1JpcNCwPvMjKizBqAdxxJ/wjvUdAGYGa4+xXt4PhxYg+p9OIUtpkoObq0A5HP
+DGkXD+qA3h3hrQFCzQcJMGefkt9o/WXB7g0kSt+s6xGhQeozv40ihrP+DG5O9hzy
+axNt266VErbNTAT2b19Anq1sadMTJVuUCW/8IsRKFUbeZgQHtQgrn7QyiZGtiDSD
+QG8X2C1Z4uspFAr0mgrBfuHP9yQtA2IAKKp/iMfxRxK0VFIcCs10l6O0jiUjrgPl
+umZzJOa1bzDd7pjXXvs1EtsSUKvxn43jvheYVWBJeoGgu4yUpuq76l3nfaqSa4If
+YdWJZqoR/MPtipgK0Cim3Grju8eTZL88uZSvuZZCU3c5sGmBdydFeNg0kB4me+39
+oPGKwUKop6Q0idc37zWAHTg/T02ySb4QR4w8rG+wAEFrGnCNQK4e9sjeTdO1FsQ0
+68bG2fLlBSf4n6EI9yeuvhQo2KqqlEcgO2RqsMmIrKzcPaEYKeXnT11Gp/ttzzL9
+71/fGn+tWu8b9fCQ2sFHOJYSK5vIaNjDJ4sGmhfCldMvls1kct2DN54jUJZ4mn2s
+ZVw0ft9AUdwr1vu/NojWEEnrK1t/7jG1EC/syZFSilczpy+lWiMvKrccvJvW8w9w
+QQkwAvDeV9VPslIYVqonN6VlrbwzgVUnzgNswMZ+uI649POMN6nk5c8kS1anrvJ1
+cLFaphjA302cmm82rkTSd/UPiCmu/HpVnWHQFhroXFW6y2GmbGxUicLjP4Oxoam8
+Q+kTD9GjUJBG72C8Ab6vPwO3vVoWvABJDXaFMxKnKMLPwTXRdxTuSMYy4Xaxolz7
+vqwe1y/dL9/YPevjg0wzh7N5HzEavTNtPKhlw/l3MgWcc53E/GF2MvF38KxIHBHl
+QqvC83X2DjjuNT1izNG/P92492RkWTMFX+nQgSg78Ti3TYVGTUvBBt7Yp4b1n1DE
+rv78BHMBjX7NijeUO5xXDJTvY2bdGfkV9cjCECCu+wHXL/8HlY9yBqQ0LTXQxCjt
+9xj+0qCfRwvp6PjZj98YkrqJcRP2tz7EBiP8iHzYUzC7h6ls6kpz2l4iQb+qTvGw
+o8EbgYbhzUOdF/+Zzf/pcl5jN9Cyc9xstEPGFu7s/OymWF6wfoF0T67xPqd8jdjb
+9lIHT+nqrMQ6aA9yLaeYSYyIGAEJ26l5Ge6JxN4ODas3pX7J4KA0y/aiLJioC8u/
+eIJ5x46NmAePTcopnolXdPZA7m9FV6vwwOQhPsIgdN0sC4/iuphCuj0p3Gz0OR2w
+-----END RSA PRIVATE KEY-----
+  
+or an API key like key=AIzaSyC7oMIPvbLvvycrjuwaHsyfgIVYj6cNtDM
+
+
