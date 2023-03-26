@@ -41,5 +41,3 @@ eIJ5x46NmAePTcopnolXdPZA7m9FV6vwwOQhPsIgdN0sC4/iuphCuj0p3Gz0OR2w
 ```
 
 or an API key like `key=AIzaSyC7oMIPvbLvvycrjuwaHsyfgIVYj6cNtDM`
-
-

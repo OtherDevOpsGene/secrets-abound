@@ -14,4 +14,3 @@ ENV AWS_SECRET_ACCESS_KEY=nryvb7D9rHL8H5EjWP/xdyguJflvv1bE0HJaUNtt
 ARG github_token
 RUN echo $github_token
 # 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
-
