@@ -5,6 +5,7 @@ A repository with secrets in it. Just for demonstration purposes.
 The secrets aren't valid (anymore). Not even this one:
 `pass=correcthorsestaplebattery`
 or a secret in a URL like <https://user@password:www.example.com>
+or an API key like `key=AIzaSyC7oMIPvbLvvycrjuwaHsyfgIVYj6cNtDM`
 or a key in this text:
 
 ```text
@@ -39,5 +40,3 @@ o8EbgYbhzUOdF/+Zzf/pcl5jN9Cyc9xstEPGFu7s/OymWF6wfoF0T67xPqd8jdjb
 eIJ5x46NmAePTcopnolXdPZA7m9FV6vwwOQhPsIgdN0sC4/iuphCuj0p3Gz0OR2w
 -----END RSA PRIVATE KEY-----
 ```
-
-or an API key like `key=AIzaSyC7oMIPvbLvvycrjuwaHsyfgIVYj6cNtDM`

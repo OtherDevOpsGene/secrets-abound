@@ -1,1 +1,7 @@
 /.cache_ggshield
+/.env
+/index.json
+/layers.tar
+/manifest.json
+/oci-layout
+/repositories
