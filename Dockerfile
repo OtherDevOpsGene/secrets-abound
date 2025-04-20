@@ -11,4 +11,4 @@ COPY keypair.pem password.txt /
 RUN rm /keypair.pem /password.txt
 
 # Hard-coded
-RUN curl -u guest:guest https://jigsaw.w3.org/HTTP/Basic/
+RUN curl --user guest:guest https://jigsaw.w3.org/HTTP/Basic/
